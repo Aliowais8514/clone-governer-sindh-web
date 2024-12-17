@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.mydrop{
+    min-width: max-content;
+    inset: -40px -20px auto auto ;
+    transform: translate3d(-20.6667px,60.6667px,0px);
+}
+
+.box_shadow{
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.245);
+}
